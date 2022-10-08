@@ -1,0 +1,153 @@
+*{
+    font-family: monospace;
+}
+
+html{
+    background-color: rgba(206, 223, 243, 0);
+    margin-bottom: 200px;
+    margin: 20px;
+}
+
+#appt{
+    background: url(/icons8-clock-32.png) center no-repeat;
+    background-position: 88% 2px;
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    width: 200PX;
+}
+
+body{
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgba(4, 117, 255, 0.492);
+    background: url(/1000_F_312677486_myHVjD2sYV0NU7xm8j7Dg7kffSbOyvsb.jpg) no-repeat center;
+    border-radius: 20px;
+    background-size: 2000px 2000px;
+    margin-bottom: 85PX;
+    margin: 20px;
+}
+
+.check{
+    size: 5px;
+    -webkit-box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 10px -8px #141414, inset 0px -10px 27px -8px #A31925, 5px 5px 5px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 10px -8px #141414, inset 0px -10px 27px -8px #A31925, 5px 5px 5px 5px rgba(0,0,0,0);
+    margin-left: 20px;
+}
+
+#TURNO{
+    background: none;
+
+}
+fieldset{
+    background-color: rgba(4, 117, 255, 0.492);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+legend{
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.titulo{
+    text-shadow: 12px 7px 15px rgb(245, 243, 255);
+    background-color: rgba(140, 100, 100, 0.768);
+    font-family: monospace;
+    color: #5e3131;
+    border-bottom: solid 2px saddlebrown;
+}
+
+h1{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+    margin-bottom: 50px;
+    text-shadow: 12px 7px 15px rgba(117, 108, 163, 1);
+    border-bottom: solid floralwhite 5px;
+}
+
+input{
+    -webkit-box-shadow: 0px 0px 0px 5px #fcf8f8, inset 0px 10px 27px -8px #4f4040, inset 0px -10px 27px -8px #A31925, 5px 5px 15px 5px rgba(80, 33, 33, 0); 
+box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 27px -8px #e49797, inset 0px -10px 27px -8px #0dc3f6, 5px 5px 15px 5px rgba(0,0,0,0);
+
+}
+
+
+#form-File{
+    -webkit-box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 10px -8px #141414, inset 0px -10px 27px -8px #A31925, 5px 5px 5px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 10px -8px #141414, inset 0px -10px 27px -8px #A31925, 5px 5px 5px 5px rgba(0,0,0,0);
+}
+
+.form-group{
+    background-color: rgba(173, 204, 242, 0.035);
+    border-radius: 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.form-control{
+    background-color: none;
+    border-radius: 20px;
+    
+}
+
+textarea{
+    align-items: center;
+    display: flexbox;
+    -webkit-box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 10px -8px #141414, inset 0px -10px 27px -8px #A31925, 5px 5px 5px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 10px -8px #141414, inset 0px -10px 27px -8px #A31925, 5px 5px 5px 5px rgba(0,0,0,0);
+}
+
+label{
+    margin-left: 10px;
+}
+
+
+#sobrenome{
+    float: right;
+}
+
+.form-control{
+    -webkit-box-shadow: 0px 0px 0px 5px #fcf8f8, inset 0px 10px 27px -8px #4f4040, inset 0px -10px 27px -8px #A31925, 5px 5px 15px 5px rgba(80, 33, 33, 0); 
+    box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 27px -8px #e49797, inset 0px -10px 27px -8px #0dc3f6, 5px 5px 15px 5px rgba(0,0,0,0);
+    
+}
+
+.form-control:hover{
+
+
+}
+
+.form-control:enabled{
+    background-color: rgba(225, 219, 255, 0.284);
+}
+
+#nome-label{
+    margin-left: 5px;
+    height: 5px;
+}
+
+#nome-label2{
+    margin-left: 5px;
+    height: 5px;
+}
+
+#inputNome{
+    width: 40px;
+    border-radius: 20px;
+}
+
+.form-check{
+    padding: 0px;
+}
+
+i{
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.btn{
+    border: solid black 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
